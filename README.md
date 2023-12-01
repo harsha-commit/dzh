@@ -6,4 +6,4 @@ Inspired by the course, I decided to create this GitHub repository to share my n
 
 I'm also super grateful to Abhishek for rekindling my passion for DevOps. I was feeling pretty lost career-wise, but this course has given me the confidence and skills to pursue my dream job in this field.
 
-## If found helpful, give it a ⭐️
+## If found helpful, give it a ⭐️# kubernetes-zero-to-hero
